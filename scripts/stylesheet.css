@@ -23,7 +23,7 @@ ul{
     padding: 0;
     float: left;
     width: 96%;
-    background-color: #F1BCD5;
+    background-color: plum;
 }
 
 li{
@@ -42,7 +42,7 @@ li{
 
 #intro{
     clear:both;
-    background-color: #F1BCD5;
+    background-color: plum;
     width: 96%;
     margin: 0 2%;
     padding-bottom: 2%;
@@ -76,7 +76,7 @@ p{
     clear: both;
     margin: 0 2%;
     margin-top: 1%;
-    background-color: #F1BCD5;
+    background-color: plum;
     text-align: center;
 }
 
@@ -84,7 +84,7 @@ p{
     clear: both;
     margin: 0 2%;
     margin-top: 1%;
-    background-color: #F1BCD5;
+    background-color: plum;
     text-align: center;
 }
 
@@ -92,7 +92,7 @@ p{
     clear: both;
     margin: 0 2%;
     margin-top: 1%;
-    background-color: #F1BCD5;
+    background-color: plum;
 }
 
 #pdf{
@@ -116,5 +116,5 @@ p{
     clear: both;
     margin: 0 2%;
     margin-top: 1%;
-    background-color: #F1BCD5;
+    background-color: plum;
 }
